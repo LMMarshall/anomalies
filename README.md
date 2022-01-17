@@ -14,4 +14,5 @@ EtherscanFetchNormal.ipynb -- The previous EtherscanFetch script collected ERC20
 
 OperatorDataFinal.ipynb -- a notebook that merges the operator data set with both the normal and the token transactions pulled from Etherscan, does some final aggregations and cleaning and saves the data to file.
 
+ClusteringAnalysis.ipynb -- a notebook that runs the ensemble clustering algorithm to identify anomalous node host behavior.
 
